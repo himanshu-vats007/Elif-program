@@ -1,4 +1,4 @@
-marks=int(input("enter your number"))
+marks=int(input("enter your marks"))
 if(marks >= 90):
    grade = "a"
 elif(marks >=80 and marks <90):
